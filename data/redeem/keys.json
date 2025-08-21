@@ -62,5 +62,9 @@
   {
     "key": "KEY-00DB461C",
     "isRedeemed": true
+  },
+  {
+    "key": "KEY-FA4AEB71",
+    "isRedeemed": false
   }
 ]
